@@ -26,7 +26,7 @@
 
    ### Installing the extension
 
-   ![How to install Stay Healthy Chrome Extension]
+   ![How to install Health Care Chrome Extension]
    * **Step 1:** Click on Code
    * **Step 2:** Click on "Download ZIP"
    * **Step 3:** Unzip the downloaded folder
